@@ -1,5 +1,5 @@
 # Hi there mate! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-Myself Chetan, I go in community with the name Ch8n. I'm a mobile technology enthusiast! love Android __kotlinAlltheWay__, want to explore all opportunity around it! I do Kotlin and Android blogging at ![Chetangupta|Androidbites](https://chetangupta.net)
+Myself Chetan, I go in community with the name Ch8n. I'm a mobile technology enthusiast! love Android __kotlinAlltheWay__, want to explore all opportunity around it! I do Kotlin and Android blogging at [Chetangupta|Androidbites](https://chetangupta.net)
 
 Your are one of the ![](https://visitor-badge.glitch.me/badge?page_id=ch8n) ! Welcome...
 
