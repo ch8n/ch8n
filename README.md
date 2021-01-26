@@ -36,6 +36,24 @@ I do `Android` and `Kotlin` blogging at <br><br>
 - [Accumulator Pattern for beginners | Fold vs Reduce](https://chetangupta.net/reduce-fold/)
 - [6 Things you need to know before using Destructuring in Kotlin.](https://chetangupta.net/destructuring-limitations/)
 
+### Featured In
+<img src="https://img.shields.io/badge/Kotlin Weekly-303030?style=for-the-badge&logo=kotlin"> <img src="https://img.shields.io/badge/ProAndroidDev-303030?style=for-the-badge&logo=android"> <img src="https://img.shields.io/badge/DroidCon-303030?style=for-the-badge&logo=android">
+
+<img src="https://img.shields.io/badge/Awesome Android devnotes-303030?style=for-the-badge&logo=kotlin"> <img src="https://img.shields.io/badge/Android NewsLetter-303030?style=for-the-badge&logo=android"> <img src="https://img.shields.io/badge/OnCreate_digest-303030?style=for-the-badge&logo=android">
+
+<img src="https://img.shields.io/badge/MDC Weekly-303030?style=for-the-badge&logo=java" alt="kotlin weekly"> <img src="https://img.shields.io/badge/Android Sweets-303030?style=for-the-badge&logo=kotlin" alt="kotlin weekly"> <img src="https://img.shields.io/badge/AndroidBoss-303030?style=for-the-badge&logo=android">
+
+<img src="https://img.shields.io/badge/Awesome Android-303030?style=for-the-badge&logo=kotlin"> <img src="https://img.shields.io/badge/HashNode-303030?style=for-the-badge&logo=hashnode"> <img src="https://img.shields.io/badge/Infinum_Weekly-303030?style=for-the-badge&logo=kotlin"> 
+
+<img src="https://img.shields.io/badge/Silver-303030?style=for-the-badge&logo=reddit"> <img src="https://img.shields.io/badge/Trending 2020-303030?style=for-the-badge&logo=reddit"> 
+
+
+
+
+
+
+
+
 
 
 <!-- Your are one of the ![](https://visitor-badge.glitch.me/badge?page_id=ch8n) ! Welcome... -->
