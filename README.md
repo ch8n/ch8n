@@ -52,17 +52,20 @@ I do `Android` and `Kotlin` blogging at <br><br>
 
 ## 📊 Github Stats
 
-<img alt="My Github stats" align="center" border-radius="40px" width="800px" height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=ch8n&layout=compact" alt="ch8n Stats" />
+
 
 
 <p align="center">
+
+<img alt="My Github stats" align="center" border-radius="40px" width="800px" height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=ch8n&layout=compact" alt="ch8n Stats" />
+
 <a href="https://github.com/ch8n">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ch8n&count_private=true&show_icons=true&include_all_commits=true" alt="Ch8n | Stats"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ch8n&layout=compact&langs_count=5"/>
+  <br>
+  <img src="https://github-profile-trophy.vercel.app/?username=ch8n" alt="Ch8n | trophy"/>
 </a>
 </p>
-
-![trophy](https://github-profile-trophy.vercel.app/?username=ch8n)
 
 <p align ="center">
 <h3> Have a question? Ask me anything 👉 <a href="https://github.com/ch8n/ch8n/issues/new"><b>here</b></a><br>
