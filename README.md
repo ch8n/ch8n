@@ -21,7 +21,8 @@ Myself `Chetan Gupta`, I go in community with the name `Ch8n`. I'm a mobile tech
 
 #### Not Enough? check :point_right: [here](https://chetangupta.net/about/) 
 
-I do Android and Kotlin blogging at
+## Blogs
+I do `Android` and `Kotlin` blogging at <br>
 <a href="https://chetangupta.net" target="_blank"><img src="https://img.shields.io/badge/AndroidBites-303030?style=for-the-badge&logo=android" alt="AndroidBites"></a> <a href="https://chetangupta.net/bbk-main" target="_blank"><img src="https://img.shields.io/badge/Big_Brain_Kotlin-303030?style=for-the-badge&logo=Kotlin" alt="BigBrainKotlin"></a> <a href="https://chetangupta.net/ds-in-kotlin/" target="_blank"><img src="https://img.shields.io/badge/Data_Structures.KT-303030?style=for-the-badge&logo=Kotlin" alt="BigBrainKotlin"></a>
 
 ### Popular blogs
@@ -40,21 +41,11 @@ I do Android and Kotlin blogging at
 
  
 ## Languages
-<img src="https://img.shields.io/badge/Kotlin-303030?style=for-the-badge&logo=kotlin" alt="kotlin">
-
-<img src="https://img.shields.io/badge/Java-303030?style=for-the-badge&logo=Java" alt="Java">
-
-<img src="https://img.shields.io/badge/Javascript-303030?style=for-the-badge&logo=Javascript" alt="Javascript">
+<img src="https://img.shields.io/badge/Kotlin-303030?style=for-the-badge&logo=kotlin" alt="kotlin"> <img src="https://img.shields.io/badge/Java-303030?style=for-the-badge&logo=Java" alt="Java"> <img src="https://img.shields.io/badge/Javascript-303030?style=for-the-badge&logo=Javascript" alt="Javascript">
 
 ## Technologies
 
-<img src="https://img.shields.io/badge/Android-303030?style=for-the-badge&logo=Android" alt="Android">
-
-<img src="https://img.shields.io/badge/NodeJs-303030?style=for-the-badge&logo=Javascript" alt="Node">
-
-<img src="https://img.shields.io/badge/Vue-303030?style=for-the-badge&logo=Javascript" alt="Vue">
-
-<img src="https://img.shields.io/badge/firebase-303030?style=for-the-badge&logo=firebase" alt="firebase">
+<img src="https://img.shields.io/badge/Android-303030?style=for-the-badge&logo=Android" alt="Android"> <img src="https://img.shields.io/badge/NodeJs-303030?style=for-the-badge&logo=Javascript" alt="Node"> <img src="https://img.shields.io/badge/Vue-303030?style=for-the-badge&logo=Javascript" alt="Vue"> <img src="https://img.shields.io/badge/firebase-303030?style=for-the-badge&logo=firebase" alt="firebase">
 
 
 ## 📊 Github Stats
@@ -78,4 +69,8 @@ I do Android and Kotlin blogging at
 
 ## Stalk Me 👀
 
-<a href="https://bit.ly/ch8n-twitter" target="_blank"><img src="https://img.shields.io/badge/Twitter-Chetan_Gupta-00acee?style=for-the-badge&logo=twitter" alt="twitter"></a> <a href="https://bit.ly/ch8n-insta" target="_blank"><img src="https://img.shields.io/badge/Instagram-Chetan_wtf-E1306C?style=for-the-badge&logo=Instagram" alt="Instagram"></a> <a href="https://bit.ly/ch8n-git" target="_blank"><img src="https://img.shields.io/badge/github-Ch8n-4078c0?style=for-the-badge&logo=github" alt="github"></a> <a href="https://bit.ly/ch8n-stackOflow" target="_blank"><img src="https://img.shields.io/badge/Stackoverflow-Chetan%20Gupta-ef8236?style=for-the-badge&logo=Stackoverflow" alt="Stackoverflow"></a> <a href="https://bit.ly/ch8n-linkdIn" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Chetan%20Gupta-0e76a8?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a> <a href="https://bit.ly/ch8n-medium-blog" target="_blank"><img src="https://img.shields.io/badge/Medium-Chetan%20Gupta-00ab6c?style=for-the-badge&logo=medium" alt="Medium"></a> <a href="https://bit.ly/ch8n-youtube" target="_blank"><img src="https://img.shields.io/badge/youtube-Chetan%20Gupta-FF0000?style=for-the-badge&logo=youtube" alt="youtube"></a> <a href="https://bit.ly/ch8n-codewar" target="_blank"><img src="https://img.shields.io/badge/CodeWars-Chetan_Gupta-F67280?style=for-the-badge&logo=CodeWars" alt="CodeWars"></a>
+<a href="https://bit.ly/ch8n-twitter" target="_blank"><img src="https://img.shields.io/badge/Twitter-Chetan_Gupta-00acee?style=for-the-badge&logo=twitter" alt="twitter"></a>  <a href="https://bit.ly/ch8n-insta" target="_blank"><img src="https://img.shields.io/badge/Instagram-Chetan_wtf-E1306C?style=for-the-badge&logo=Instagram" alt="Instagram"></a>  <a href="https://bit.ly/ch8n-git" target="_blank"><img src="https://img.shields.io/badge/github-Ch8n-4078c0?style=for-the-badge&logo=github" alt="github"></a> 
+
+<a href="https://bit.ly/ch8n-stackOflow" target="_blank"><img src="https://img.shields.io/badge/Stackoverflow-Chetan%20Gupta-ef8236?style=for-the-badge&logo=Stackoverflow" alt="Stackoverflow"></a> <a href="https://bit.ly/ch8n-linkdIn" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Chetan%20Gupta-0e76a8?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a> <a href="https://bit.ly/ch8n-medium-blog" target="_blank"><img src="https://img.shields.io/badge/Medium-Chetan%20Gupta-00ab6c?style=for-the-badge&logo=medium" alt="Medium"></a> 
+
+<a href="https://bit.ly/ch8n-youtube" target="_blank"><img src="https://img.shields.io/badge/youtube-Chetan%20Gupta-FF0000?style=for-the-badge&logo=youtube" alt="youtube"></a> <a href="https://bit.ly/ch8n-codewar" target="_blank"><img src="https://img.shields.io/badge/CodeWars-Chetan_Gupta-F67280?style=for-the-badge&logo=CodeWars" alt="CodeWars"></a>
