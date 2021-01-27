@@ -47,18 +47,6 @@ I do `Android` and `Kotlin` blogging at <br><br>
 
 <img src="https://img.shields.io/badge/Silver-303030?style=for-the-badge&logo=reddit"> <img src="https://img.shields.io/badge/Trending 2020-303030?style=for-the-badge&logo=reddit"> 
 
-
-
-
-
-
-
-
-
-
-<!-- Your are one of the ![](https://visitor-badge.glitch.me/badge?page_id=ch8n) ! Welcome... -->
-
-
  
 ## Languages
 <img src="https://img.shields.io/badge/Kotlin-303030?style=for-the-badge&logo=kotlin" alt="kotlin"> <img src="https://img.shields.io/badge/Java-303030?style=for-the-badge&logo=Java" alt="Java"> <img src="https://img.shields.io/badge/Javascript-303030?style=for-the-badge&logo=Javascript" alt="Javascript">
@@ -69,9 +57,6 @@ I do `Android` and `Kotlin` blogging at <br><br>
 
 
 ## 📊 Github Stats
-
-
-
 
 <p align="center">
 
@@ -101,3 +86,7 @@ I do `Android` and `Kotlin` blogging at <br><br>
 <a href="https://bit.ly/ch8n-stackOflow" target="_blank"><img src="https://img.shields.io/badge/Stackoverflow-Chetan%20Gupta-ef8236?style=for-the-badge&logo=Stackoverflow" alt="Stackoverflow"></a> <a href="https://bit.ly/ch8n-linkdIn" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Chetan%20Gupta-0e76a8?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a> <a href="https://bit.ly/ch8n-medium-blog" target="_blank"><img src="https://img.shields.io/badge/Medium-Chetan%20Gupta-00ab6c?style=for-the-badge&logo=medium" alt="Medium"></a> 
 
 <a href="https://bit.ly/ch8n-youtube" target="_blank"><img src="https://img.shields.io/badge/youtube-Chetan%20Gupta-FF0000?style=for-the-badge&logo=youtube" alt="youtube"></a> <a href="https://bit.ly/ch8n-codewar" target="_blank"><img src="https://img.shields.io/badge/CodeWars-Chetan_Gupta-F67280?style=for-the-badge&logo=CodeWars" alt="CodeWars"></a>
+
+<p align="center">
+<img src="https://visitor-badge.glitch.me/badge?page_id=ch8n">
+</p≈>
