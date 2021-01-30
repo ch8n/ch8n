@@ -47,6 +47,11 @@ I do `Android` and `Kotlin` blogging at <br><br>
 
 <img src="https://img.shields.io/badge/Silver-303030?style=for-the-badge&logo=reddit"> <img src="https://img.shields.io/badge/Trending 2020-303030?style=for-the-badge&logo=reddit"> 
 
+## Awards
+<figure align="center">
+<img src="./Chetan_Gupta.png" height=250px> <br>
+<figcaption>Android Tech Star | India Mentor</figcaption>
+</figure>
  
 ## Languages
 <img src="https://img.shields.io/badge/Kotlin-303030?style=for-the-badge&logo=kotlin" alt="kotlin"> <img src="https://img.shields.io/badge/Java-303030?style=for-the-badge&logo=Java" alt="Java"> <img src="https://img.shields.io/badge/Javascript-303030?style=for-the-badge&logo=Javascript" alt="Javascript">
