@@ -48,15 +48,20 @@ I do `Android` and `Kotlin` blogging at <br><br>
 <img src="https://img.shields.io/badge/Silver-303030?style=for-the-badge&logo=reddit"> <img src="https://img.shields.io/badge/Trending 2020-303030?style=for-the-badge&logo=reddit"> 
 
 ## Awards
-<figure align="center">
-<img src="./Chetan_Gupta.png" height=250px> <br>
-<figcaption>Android Tech Star | India Mentor</figcaption>
-</figure>
 
-<figure align="center">
-<img src="./magniffect-award.png" height=450px> <br>
-<figcaption>Nominee for Korea Mobile Brand Awards |  Korea Mobile Brand Awards </figcaption>
-</figure>
+<a href="https://github.com/ch8n/ch8n/blob/main/Chetan_Gupta.png" target="_blank">
+  <figure align="center">
+  <img src="./Chetan_Gupta.png" height=250px> <br>
+  <figcaption>Android Tech Star | India Mentor</figcaption>
+  </figure>
+</a> 
+<br>
+<a href="https://github.com/ch8n/ch8n/blob/main/magniffect-award.png" target="_blank">
+  <figure align="center">
+  <img src="./magniffect-award.png" height=450px> <br>
+  <figcaption>Nominee for Korea Mobile Brand Awards |  Korea Mobile Brand Awards </figcaption>
+  </figure>
+</a> 
 
 
 ## Languages
