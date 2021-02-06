@@ -82,32 +82,22 @@ I do `Android` and `Kotlin` blogging at <br>
 <p style="display: flex;">
 
 
-<a href="https://github.com/ch8n/Expanding-Cards-Compose" target="_blank">
-  <figure align="center">
-  <img src="./preview_compose.gif" height =200px> 
-  </img> <br>
-  <figcaption>Horizontal Expanding Cards [Compose]</figcaption>
-  </figure>
+<a href="https://github.com/ch8n/Expanding-Cards-Compose">
+  <p>Jetpack Compose | horizontal expanding cards</p>
+  <img src="./preview_compose.gif" height =200px/>
+</a>
+
+<a style="margin-left:12px" href="https://github.com/ch8n/KorgeSample">
+  <p>Korge | Game development in Kotlin</p>
+  <img src="./preview_korge.gif" height=200px/>  
 </a> 
-
-
-<a  style="margin-left:12px" href="https://github.com/ch8n/Expanding-Cards-Compose" target="_blank">
-  <figure align="center">
-  <img src="./preview_korge.gif" height=200px> 
-  </img> <br>
-  <figcaption>Game dev in Kotlin [Korge]</figcaption>
-  </figure>
-</a> 
-
 </p>
 
-<a href="https://github.com/ch8n/morse-code-kt" target="_blank">
-  <figure align="center">
-  <img src="./sample-morse.gif" height =200px> <br>
-  <figcaption>Morse-Code encode|decode [CliKt]</figcaption>
-  </figure>
+<a href="https://github.com/ch8n/morse-code-kt">
+<p>Clikt | CLI application in Kotlin</p>
+<img src="./sample-morse.gif" height =200px/> 
 </a> 
-
+<br>
 
 ## 📊 Github Stats
 
