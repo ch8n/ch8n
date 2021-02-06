@@ -28,9 +28,10 @@ I do `Android` and `Kotlin` blogging at <br>
 <a href="https://chetangupta.net" target="_blank"><img src="https://img.shields.io/badge/AndroidBites-303030?style=for-the-badge&logo=android" alt="AndroidBites"></a> <a href="https://chetangupta.net/bbk-main" target="_blank"><img src="https://img.shields.io/badge/Big_Brain_Kotlin-303030?style=for-the-badge&logo=Kotlin" alt="BigBrainKotlin"></a> <a href="https://chetangupta.net/ds-in-kotlin/" target="_blank"><img src="https://img.shields.io/badge/Data_Structures.KT-303030?style=for-the-badge&logo=Kotlin" alt="BigBrainKotlin"></a>
 
 ### Hacktober
+<p style="display:flex;">
 <img src="./hacktober_2019.png" height=120px>
 <img src="./hacktober_2020.png" height=120px>
-
+</p>
 
 ### Popular blogs
 - [Yet Another View Binding Article?](https://chetangupta.net/viewbinding/)
