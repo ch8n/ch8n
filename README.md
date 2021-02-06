@@ -81,21 +81,33 @@ I do `Android` and `Kotlin` blogging at <br>
 
 <p style="display: flex;">
 
-<a href="https://github.com/ch8n/Expanding-Cards-Compose">
-  <img src="./preview_compose.gif" height =200px> <br>Horizontal Expanding<br> Cards [Compose]
-  </img> 
-</a>
 
-<a style="margin-left:12px" href="https://github.com/ch8n/KorgeSample">
-  <img src="./preview_korge.gif" height=200px> 
-    <br>Game dev in Kotlin [Korge]
-   </img> 
+<a href="https://github.com/ch8n/Expanding-Cards-Compose" target="_blank">
+  <figure align="center">
+  <img src="./preview_compose.gif" height =200px> 
+  </img>
+  <figcaption>GHorizontal Expanding Cards [Compose]</figcaption>
+  </figure>
 </a> 
+
+
+<a  style="margin-left:12px" href="https://github.com/ch8n/Expanding-Cards-Compose" target="_blank">
+  <figure align="center">
+  <img src="./preview_korge.gif" height=200px> 
+  </img> <br>
+  <figcaption>Game dev in Kotlin [Korge]</figcaption>
+  </figure>
+</a> 
+
 </p>
 
-<a href="https://github.com/ch8n/morse-code-kt">
-<img src="./sample-morse.gif" height =200px> <br>Morse-Code encode|decode [CliKt]
-</a> <br>
+<a href="https://github.com/ch8n/morse-code-kt" target="_blank">
+  <figure align="center">
+  <img src="./sample-morse.gif" height =200px> 
+  <figcaption>Morse-Code encode|decode [CliKt]</figcaption>
+  </figure>
+</a> 
+
 
 ## 📊 Github Stats
 
