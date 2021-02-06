@@ -21,8 +21,10 @@ Myself `Chetan Gupta`, I go in community with the name `Ch8n`. I'm a mobile tech
 
 ### Not Enough? check :point_right: [here](https://chetangupta.net/about/) 
 <br>
+
 ## Blogs
-I do `Android` and `Kotlin` blogging at <br><br>
+I do `Android` and `Kotlin` blogging at <br>
+
 <a href="https://chetangupta.net" target="_blank"><img src="https://img.shields.io/badge/AndroidBites-303030?style=for-the-badge&logo=android" alt="AndroidBites"></a> <a href="https://chetangupta.net/bbk-main" target="_blank"><img src="https://img.shields.io/badge/Big_Brain_Kotlin-303030?style=for-the-badge&logo=Kotlin" alt="BigBrainKotlin"></a> <a href="https://chetangupta.net/ds-in-kotlin/" target="_blank"><img src="https://img.shields.io/badge/Data_Structures.KT-303030?style=for-the-badge&logo=Kotlin" alt="BigBrainKotlin"></a>
 
 ### Hacktober
