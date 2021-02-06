@@ -19,13 +19,16 @@ Myself `Chetan Gupta`, I go in community with the name `Ch8n`. I'm a mobile tech
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I'm 👨🏻‍💻 by :sunny: and :guitar: by :full_moon_with_face:
 
-#### Not Enough? check :point_right: [here](https://chetangupta.net/about/) 
-
+### Not Enough? check :point_right: [here](https://chetangupta.net/about/) 
 <br>
-
 ## Blogs
 I do `Android` and `Kotlin` blogging at <br><br>
 <a href="https://chetangupta.net" target="_blank"><img src="https://img.shields.io/badge/AndroidBites-303030?style=for-the-badge&logo=android" alt="AndroidBites"></a> <a href="https://chetangupta.net/bbk-main" target="_blank"><img src="https://img.shields.io/badge/Big_Brain_Kotlin-303030?style=for-the-badge&logo=Kotlin" alt="BigBrainKotlin"></a> <a href="https://chetangupta.net/ds-in-kotlin/" target="_blank"><img src="https://img.shields.io/badge/Data_Structures.KT-303030?style=for-the-badge&logo=Kotlin" alt="BigBrainKotlin"></a>
+
+### Hacktober
+<img src="./hacktober_2019.png" height=120px>
+<img src="./hacktober_2020.png" height=120px>
+
 
 ### Popular blogs
 - [Yet Another View Binding Article?](https://chetangupta.net/viewbinding/)
@@ -71,6 +74,25 @@ I do `Android` and `Kotlin` blogging at <br><br>
 
 <img src="https://img.shields.io/badge/Android-303030?style=for-the-badge&logo=Android" alt="Android"> <img src="https://img.shields.io/badge/NodeJs-303030?style=for-the-badge&logo=Javascript" alt="Node"> <img src="https://img.shields.io/badge/Vue-303030?style=for-the-badge&logo=Javascript" alt="Vue"> <img src="https://img.shields.io/badge/firebase-303030?style=for-the-badge&logo=firebase" alt="firebase">
 
+## Made in Kotlin with :heart:
+
+<p style="display: flex;">
+
+<a href="https://github.com/ch8n/Expanding-Cards-Compose">
+  <img src="./preview_compose.gif" height =200px> <br>Horizontal Expanding<br> Cards [Compose]
+  </img> 
+</a>
+
+<a style="margin-left:12px" href="https://github.com/ch8n/KorgeSample">
+  <img src="./preview_korge.gif" height=200px> 
+    <br>Game dev in Kotlin [Korge]
+   </img> 
+</a> 
+</p>
+
+<a href="https://github.com/ch8n/morse-code-kt">
+<img src="./sample-morse.gif" height =200px> <br>Morse-Code encode|decode [CliKt]
+</a> <br>
 
 ## 📊 Github Stats
 
