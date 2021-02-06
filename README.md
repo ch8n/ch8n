@@ -85,8 +85,8 @@ I do `Android` and `Kotlin` blogging at <br>
 <a href="https://github.com/ch8n/Expanding-Cards-Compose" target="_blank">
   <figure align="center">
   <img src="./preview_compose.gif" height =200px> 
-  </img>
-  <figcaption>GHorizontal Expanding Cards [Compose]</figcaption>
+  </img> <br>
+  <figcaption>Horizontal Expanding Cards [Compose]</figcaption>
   </figure>
 </a> 
 
@@ -103,7 +103,7 @@ I do `Android` and `Kotlin` blogging at <br>
 
 <a href="https://github.com/ch8n/morse-code-kt" target="_blank">
   <figure align="center">
-  <img src="./sample-morse.gif" height =200px> 
+  <img src="./sample-morse.gif" height =200px> <br>
   <figcaption>Morse-Code encode|decode [CliKt]</figcaption>
   </figure>
 </a> 
