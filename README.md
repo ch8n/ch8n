@@ -79,23 +79,23 @@ I do `Android` and `Kotlin` blogging at <br>
 
 ## Made in Kotlin with :heart:
 
-<p style="display: flex;">
-
+<div style="display: flex;">
 
 <a href="https://github.com/ch8n/Expanding-Cards-Compose">
-  <p>Jetpack Compose | horizontal expanding cards</p>
   <img src="./preview_compose.gif" height =200px/>
+  <p>Horizontal Expanding Cards</p>
 </a>
 
-<a style="margin-left:12px" href="https://github.com/ch8n/KorgeSample">
-  <p>Korge | Game development in Kotlin</p>
+<a style="margin-left:18px" href="https://github.com/ch8n/KorgeSample">
+  
   <img src="./preview_korge.gif" height=200px/>  
+  <p>Korge | Game development</p>
 </a> 
-</p>
+</div>
 
 <a href="https://github.com/ch8n/morse-code-kt">
-<p>Clikt | CLI application in Kotlin</p>
 <img src="./sample-morse.gif" height =200px/> 
+<p>CLI application </p>
 </a> 
 <br>
 
