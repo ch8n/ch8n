@@ -79,25 +79,30 @@ I do `Android` and `Kotlin` blogging at <br>
 
 ## Made in Kotlin with :heart:
 
-<div style="display: flex;">
+<div>
+      <a href="https://github.com/ch8n/morse-code-kt">
+      <img src="./sample-morse.gif" height =200px/> 
+      <p>CLI application </p>
+      </a> 
+    </div>
 
-<a href="https://github.com/ch8n/Expanding-Cards-Compose">
-  <img src="./preview_compose.gif" height =200px/>
-  <p>Horizontal Expanding Cards</p>
-</a>
+<table >
+  <tr>
+    <td valign="top">
+      <a href="https://github.com/ch8n/Expanding-Cards-Compose">
+        <img src="./preview_compose.gif" height =200px/>
+        <p>Horizontal Expanding Cards</p>
+      </a>
+    </td>
+    <td valign="top">
+        <a style="margin-left:18px" href="https://github.com/ch8n/KorgeSample">
+        <img src="./preview_korge.gif" height=200px/>  
+        <p>Korge | Game development</p>
+      </a> 
+    </td>
+  </tr>
+</table>
 
-<a style="margin-left:18px" href="https://github.com/ch8n/KorgeSample">
-  
-  <img src="./preview_korge.gif" height=200px/>  
-  <p>Korge | Game development</p>
-</a> 
-</div>
-
-<a href="https://github.com/ch8n/morse-code-kt">
-<img src="./sample-morse.gif" height =200px/> 
-<p>CLI application </p>
-</a> 
-<br>
 
 ## 📊 Github Stats
 
