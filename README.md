@@ -62,13 +62,6 @@ I do `Android` and `Kotlin` blogging at <br>
   </figure>
 </a> 
 <br>
-<a href="https://github.com/ch8n/ch8n/blob/main/magniffect-award.png" target="_blank">
-  <figure align="center">
-  <img src="./magniffect-award.png" height=450px> <br>
-  <figcaption>Nominee for Korea Mobile Brand Awards |  Korea Mobile Brand Awards </figcaption>
-  </figure>
-</a> 
-
 
 ## Languages
 <img src="https://img.shields.io/badge/Kotlin-303030?style=for-the-badge&logo=kotlin" alt="kotlin"> <img src="https://img.shields.io/badge/Java-303030?style=for-the-badge&logo=Java" alt="Java"> <img src="https://img.shields.io/badge/Javascript-303030?style=for-the-badge&logo=Javascript" alt="Javascript">
@@ -114,13 +107,11 @@ I do `Android` and `Kotlin` blogging at <br>
 
 <a href="https://github.com/ch8n">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ch8n&count_private=true&show_icons=true&include_all_commits=true" alt="Ch8n | Stats"/>
-  
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ch8n&layout=compact&langs_count=5"/>
+ 
   <br>
-  <br>
-  <img src="https://github-profile-trophy.vercel.app/?username=ch8n" alt="Ch8n | trophy"/>
 </a>
 </p>
+
 
 <p align ="center">
 <h3> Have a question? Ask me anything 👉 <a href="https://github.com/ch8n/ch8n/issues/new"><b>here</b></a><br>
