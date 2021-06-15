@@ -86,15 +86,14 @@ I do `Android` and `Kotlin` blogging at <br>
 
 ## Made in Kotlin with :heart:
 
-<div>
+<table >
+  <tr>
+    <td valign="top">
       <a href="https://github.com/ch8n/morse-code-kt">
       <img src="./sample-morse.gif" height =200px/> 
       <p>CLI application </p>
       </a> 
-    </div>
-
-<table >
-  <tr>
+    </td>
     <td valign="top">
       <a href="https://github.com/ch8n/Expanding-Cards-Compose">
         <img src="./preview_compose.gif" height =200px/>
@@ -105,6 +104,29 @@ I do `Android` and `Kotlin` blogging at <br>
         <a style="margin-left:18px" href="https://github.com/ch8n/KorgeSample">
         <img src="./preview_korge.gif" height=200px/>  
         <p>Korge | Game development</p>
+      </a> 
+    </td>
+  </tr>
+</table>
+
+<table >
+  <tr>
+    <td valign="top">
+      <a href="https://github.com/ch8n/Compose-Fruit-Ninja">
+      <img src="https://github.com/ch8n/Compose-Fruit-Ninja/raw/main/preview-fruit-ninja.gif" height =200px/> 
+      <p>Compose-Fruit-Ninja 🥝</p>
+      </a> 
+    </td>
+    <td valign="top">
+      <a href="https://github.com/ch8n/Compose-SpaceWars">
+        <img src="https://github.com/ch8n/Compose-SpaceWars/raw/main/spacwWarPreview.gif" height =200px/>
+        <p>Compose-Alien-invasion👾</p>
+      </a>
+    </td>
+    <td valign="top">
+        <a style="margin-left:18px" href="https://github.com/ch8n/Compose-Stars">
+        <img src="https://github.com/ch8n/Compose-Stars/raw/main/preview.gif" height=200px/>  
+        <p>Compose-StarWar-3D-Space-Particle 🚀</p>
       </a> 
     </td>
   </tr>
