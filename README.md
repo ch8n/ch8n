@@ -1,4 +1,3 @@
-
 ![](androidbites.jpg)
 
 # Hello World! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
@@ -55,12 +54,27 @@ I do `Android` and `Kotlin` blogging at <br>
 
 ## Awards
 
-<a href="https://github.com/ch8n/ch8n/blob/main/Chetan_Gupta.png" target="_blank">
-  <figure align="center">
-  <img src="./Chetan_Gupta.png" height=250px> <br>
-  <figcaption>Android Tech Star | India Mentor</figcaption>
-  </figure>
-</a> 
+<table >
+  <tr>
+    <td valign="top">
+      <a href="https://github.com/ch8n/ch8n/blob/main/Chetan_Gupta.png" target="_blank">
+        <figure align="center">
+        <img src="./Chetan_Gupta.png" height=250px> <br>
+        <figcaption>Android Tech Star | India Mentor</figcaption>
+        </figure>
+      </a> 
+    </td>
+    <td valign="top">
+        <a href="https://user-images.githubusercontent.com/11576342/122118895-38265180-ce46-11eb-9422-c6d3bbdacaa6.jpeg" target="_blank">
+          <figure align="center">
+           <img src="https://user-images.githubusercontent.com/11576342/122118895-38265180-ce46-11eb-9422-c6d3bbdacaa6.jpeg" height=250px> <br>
+           <figcaption>Jetpack Compose Challenge Trophy</figcaption>  
+          </figure>
+        </a> 
+    </td>
+  </tr>
+</table>
+
 <br>
 
 ## Languages
