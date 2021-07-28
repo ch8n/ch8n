@@ -41,6 +41,28 @@ I do `Android` and `Kotlin` blogging at <br>
 - [Accumulator Pattern for beginners | Fold vs Reduce](https://chetangupta.net/reduce-fold/)
 - [6 Things you need to know before using Destructuring in Kotlin.](https://chetangupta.net/destructuring-limitations/)
 
+### Community
+
+<table>
+  <tr>
+    <td valign="top">
+      <img src="https://user-images.githubusercontent.com/11576342/127342300-c3a3b60b-6afb-47b6-9020-c5d4c1ca2c87.jpeg" height =200px/> 
+      <p>Core Team : The Code Monks 🐒</p>
+    </td>
+    <td valign="top">
+        <img src="https://user-images.githubusercontent.com/11576342/127342468-a62cc883-be82-401f-8f42-d13fdc22c8ca.png" height =200px/>
+        <p>Core Team : Kotlin-Mumbai 👾</p>
+    </td>
+    <td valign="top">
+        <img src="https://user-images.githubusercontent.com/11576342/127343046-fd5e3fcc-38f9-4152-9385-550cf4e2ff1b.png" height=200px/>  
+        <p>Ambassadors : Android Hero Community 🚀</p>
+      </a> 
+    </td>
+  </tr>
+</table>
+
+
+
 ### Featured In
 <img src="https://img.shields.io/badge/Kotlin Weekly-303030?style=for-the-badge&logo=kotlin"> <img src="https://img.shields.io/badge/ProAndroidDev-303030?style=for-the-badge&logo=android"> <img src="https://img.shields.io/badge/DroidCon-303030?style=for-the-badge&logo=android">
 
