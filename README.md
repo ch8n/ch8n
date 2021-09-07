@@ -172,9 +172,13 @@ I do `Android` and `Kotlin` blogging at <br>
 
 
 <p align ="center">
-<h3> Have a question? Ask me anything 👉 <a href="https://github.com/ch8n/ch8n/issues/new"><b>here</b></a><br>
-</h3>
+<h1> Have a question? Ask me anything 👉 <a href="https://github.com/ch8n/ch8n/issues/new"><b>here</b></a><br>
+</h1>
 </p>
+
+
+ <img src="https://activity-graph.herokuapp.com/graph?username=ch8n&theme=react-dark&bg_color=000&hide_border=true" width="100%"/>
+
 
 ## Stalk Me 👀
 
